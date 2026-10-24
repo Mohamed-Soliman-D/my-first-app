@@ -56,4 +56,9 @@ const styles = StyleSheet.create({
     borderRadius: 10,
   },
   buttonText: { color: "#fff", fontWeight: "600" },
+
+  footer: {
+    color: "#666",
+    fontSize: 12,
+  },
 });
